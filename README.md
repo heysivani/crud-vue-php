@@ -1,1 +1,1 @@
-# vanity
+# simple crud
